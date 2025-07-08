@@ -23,7 +23,7 @@ from sidebar import render_conversation_sidebar
 
 # Anthropic 클라이언트 초기화
 client = anthropic.Anthropic(
-    api_key="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"  # 여기에 실제 Claude API 키를 입력하세요
+    api_key="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"  # 여기에 실제 Claude API 키를 입력하세요
 )
 
 # 게임 가격 API 인스턴스 생성
